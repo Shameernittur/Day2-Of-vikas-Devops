@@ -4,6 +4,6 @@ class Simple {
     public static void main(String[] args)
     {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello Devops-41 student Shameer");
+        System.out.println("Hello Devops-41 student Shameer this is a test to automated trigger job in jenkins - all the best");
     }
 }
